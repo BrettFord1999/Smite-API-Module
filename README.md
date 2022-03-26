@@ -7,7 +7,7 @@ You can import this with "Import-module C:\pathtofile.psm1"
 After you've done this you will be able to run the commands
 
 **Currently supported commands**
-Import-GodIds 
+Import-GodIds `
 Get-Playerstats
 Get-Smiteitems
 Get-Gods
